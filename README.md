@@ -1,5 +1,5 @@
 # Yüz Tanıma Sistemi
-![demo](https://github.com/SuleymanKaya1/Yuz-Tanima-Sistemi/blob/main/demo.png<br>
+![demo](https://github.com/SuleymanKaya1/Yuz-Tanima-Sistemi/blob/main/demo.png)<br>
 İnsanların sadece bir fotoğrafını kullanarak bilgisayar ortamında onları tanımak mümkün. Bilgisayarınız tarafından tanınması istediğiniz kişilerin fotoğraflarını 'PersonelYuzleri' klasörünün içine atın ve yazılımı çalıştırın; canlı olarak kameradan yüz tanımak işte bu kadar basit. Tanınan yüzleri ise saat kaçta tanıdığını Kayıtlar.csv adlı dosyaya kaydediyor, böylelikle personel/şahısların giriş çıkış saatleri belirlenebiliyor.
 ## Kurulum
 ### Windows:
